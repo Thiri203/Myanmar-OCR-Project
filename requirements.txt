@@ -1,0 +1,9 @@
+datasets
+pillow
+pandas
+tqdm
+jiwer
+sacrebleu
+pyyaml
+opencv-python
+numpy

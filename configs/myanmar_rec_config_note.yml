@@ -1,0 +1,18 @@
+# Placeholder config note.
+#
+# Use this file as a note for the final PaddleOCR recognition config.
+# The actual config should be copied from PaddleOCR configs/rec/ and edited.
+#
+# Required edits:
+# - Global.character_dict_path: data/chn_subset/myanmar_dict.txt
+# - Global.use_space_char: true
+# - Train.dataset.data_dir: data/chn_subset
+# - Train.dataset.label_file_list: ["data/chn_subset/rec_gt_train.txt"]
+# - Eval.dataset.data_dir: data/chn_subset
+# - Eval.dataset.label_file_list: ["data/chn_subset/rec_gt_test.txt"]
+# - Global.save_model_dir: outputs/puffer_2080ti_run1
+#
+# Recommended Phase 2:
+# - train subset: 5k to 10k
+# - test subset: 500 to 1k
+# - epochs: 3 to 10 depending on time
