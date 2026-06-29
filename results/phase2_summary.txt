@@ -7,29 +7,27 @@ Dataset:
 
 Model:
 - Framework: PaddleOCR recognition
-- Base config/model: [FILL after training config is finalized]
+- Model type: CRNN recognition model
+- Backbone: MobileNetV3
+- Neck: SequenceEncoder with RNN
+- Head: CTCHead
 - Custom dictionary size: 165 characters, plus space character enabled
 
 Compute:
 - GPU: RTX 2080 Ti
 - Run name: puffer_2080ti_run1
-- Training time: [FILL]
-- Epochs/iterations: [FILL]
-- Batch size: [FILL]
+- Epochs: 5
+- Batch size: 32
+- Total training steps: 780
 
-Metrics:
-- CER: [FILL]
-- WER: [FILL]
-- chrF++: [FILL]
-
-Sample predictions:
-1. GT: [FILL]
-   Pred: [FILL]
-
-2. GT: [FILL]
-   Pred: [FILL]
+Evaluation:
+- Exact sequence accuracy: 0.0220
+- Normalized edit distance: 0.2627
+- FPS: 775.05
+- Checkpoint used: outputs/puffer_2080ti_run1/latest
 
 Notes:
-- Did the model converge? [yes/no]
-- Main error types observed: [FILL]
-- Limitations: small subset, short training time, synthetic data only
+- The training and evaluation pipeline completed successfully.
+- The result is still weak because this was a short pilot run using only 5,000 training samples and 5 epochs.
+- The main purpose of this Phase 2 run is to prove that dataset loading, dictionary construction, PaddleOCR training, checkpoint saving, and evaluation are working.
+- For the final submission, the same E1 experiment should be scaled with more training samples and more epochs.
