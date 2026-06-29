@@ -1,0 +1,40 @@
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# Generated sample/result images
+results/*.png
+
+# Dataset images
+data/chn_subset/train_images/
+data/chn_subset/test_images/
+
+# Hugging Face / cache
+.cache/
+
+# Crash dumps
+core
+core.*
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Generated images/results
+results/*.png
+
+# Dataset image folders
+data/chn_subset/train_images/
+data/chn_subset/test_images/
+
+# Training outputs
+outputs/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc

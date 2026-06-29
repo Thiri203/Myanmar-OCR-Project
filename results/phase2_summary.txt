@@ -1,0 +1,35 @@
+Phase 2 E1 Pilot Result
+
+Dataset:
+- Main dataset: chuuhtetnaing/myanmar-ocr-dataset
+- Train subset size: 5000
+- Test subset size: 500
+
+Model:
+- Framework: PaddleOCR recognition
+- Base config/model: [FILL after training config is finalized]
+- Custom dictionary size: 165 characters, plus space character enabled
+
+Compute:
+- GPU: RTX 2080 Ti
+- Run name: puffer_2080ti_run1
+- Training time: [FILL]
+- Epochs/iterations: [FILL]
+- Batch size: [FILL]
+
+Metrics:
+- CER: [FILL]
+- WER: [FILL]
+- chrF++: [FILL]
+
+Sample predictions:
+1. GT: [FILL]
+   Pred: [FILL]
+
+2. GT: [FILL]
+   Pred: [FILL]
+
+Notes:
+- Did the model converge? [yes/no]
+- Main error types observed: [FILL]
+- Limitations: small subset, short training time, synthetic data only

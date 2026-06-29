@@ -1,0 +1,500 @@
+test_images/test_000000.png	သည်
+test_images/test_000001.png	မှာငြိပါ ပါလိမ့်။
+test_images/test_000002.png	သေတ္တာကို မရဲတ
+test_images/test_000003.png	၃၅၃ ဖြစ်သည်။ ၂၀၁၄ သန်းခေါင်စာရင်းအရ တောင်နီကျေးရွာအုပ်စုတွင် ကျား ၁၁၀
+test_images/test_000004.png	ပုသိမ်မြို့သည် ၁၂ စ
+test_images/test_000005.png	ပုန်း
+test_images/test_000006.png	ရင်မ အားပြန်၍ လက်
+test_images/test_000007.png	မလာသေး
+test_images/test_000008.png	ခဲ့သော
+test_images/test_000009.png	အ
+test_images/test_000010.png	အမြဲရှိတယ်၊ ကင်
+test_images/test_000011.png	နာ
+test_images/test_000012.png	လွတ်တစ်ရွက်
+test_images/test_000013.png	ရှင်း
+test_images/test_000014.png	မှု ကူးစက်ရော
+test_images/test_000015.png	နိုင်ချေ။ တနင်္ဂ
+test_images/test_000016.png	ပွဲကြီးနှင့် သာသနာနှစ် ၂၅၀၀ ပြည့် အထိမ်းအမှတ် အောင်ပွဲသဘင်ကြီးကို ၁၉၅၆ ခုနှစ် မေလ ၂၂ ရက်မှ
+test_images/test_000017.png	လောက်ဖြစ်သည်။ သို့ရာတွင် အလွန်ကြီးမားသော နှုတ်ခမ်း
+test_images/test_000018.png	သည် တိုက်ကွင်းထဲ ဝင်ရောက်၍ ပါ
+test_images/test_000019.png	ပါတယ်၊ ကျုပ်ပါ ဟာ
+test_images/test_000020.png	င့်အတွက်ပါလာ
+test_images/test_000021.png	သည်။
+test_images/test_000022.png	အင်ဂျင်ကို အကန့်အသတ်ဖြင့် ခုတ်ရခြင်း၊ လွယ်လင့်တကူ အရေးပေါ်လုပ် ခတ်တက်က
+test_images/test_000023.png	အမှန်
+test_images/test_000024.png	ဦး
+test_images/test_000025.png	၏
+test_images/test_000026.png	။ စာရေးဆရာ မောင်ဝံသ ပဲခူးတိုင်း၊ ဝေါမြို့နယ်၊ မြစ်ကျိုးကျေးရွာတွင် မွေး
+test_images/test_000027.png	တို့
+test_images/test_000028.png	နေ
+test_images/test_000029.png	သီး၏ မျက်မှောက်ဘ၀ အတွေ့အကြုံများကို
+test_images/test_000030.png	။
+test_images/test_000031.png	င့်
+test_images/test_000032.png	ဖေဖျားရဲ့။ အံ
+test_images/test_000033.png	ဘဝ၌ပင် အခြေခံ ကျမ်းစာအဖြာဖြာတို့ကို သင်ကြားတတ်မြောက်သည်
+test_images/test_000034.png	အဖြစ်နှင့်
+test_images/test_000035.png	ဘယ်လို ခေါ်ကြမယ်မသိဘူး တိုက် လူဦးရေတိုးနှုန်းသည် ဝ.၉ ရာခိုင်နှုန်းဖြစ်သည်။ ခန္တီ (ပုလောက်မြို့နယ်ခွဲ) နယူတန်၏
+test_images/test_000036.png	၀
+test_images/test_000037.png	သဘင်သို့ ဆောင်ယူ တော်မူသွားပါလျှင် အောင်မြင်
+test_images/test_000038.png	နေရာ၌ နေရ သည့်
+test_images/test_000039.png	ဆိုခဲ့သည်။ သမ္မာကျမ်းစာကို အသုံး
+test_images/test_000040.png	မြင်နေသူများမှာ
+test_images/test_000041.png	ထောင်စု၏ အခြားထင်ရှားသော တက္ကသိုလ်များမှာ ယေးတက္ကသိုလ်(၁၇ဝ၁ ခုနှစ်)၊ ပရင့်စတန်တက္ကသိုလ် (၁၇၄၆ ခုနှစ်)၊ ဝါရှင်တန်၌လည်း တက္ကသိုလ်(၁၇၄၉)၊
+test_images/test_000042.png	သည် အိမ်ထဲရှိ သမီးနှစ်ယောက်ကို တစ်ချက်
+test_images/test_000043.png	လုပ်ရှင်၊ အ
+test_images/test_000044.png	ည့် သူတောင်းစားတွေ ပြန်ပေါ်လာကြသည်။ သူငယ်ကလေးများသည် နှင်းပန်းစိမ်းစိမ်းများကို ရောင်း
+test_images/test_000045.png	လာသည် ဆိုတဲ့ ဇာတ်လမ်းကို ပြောမှာပါ
+test_images/test_000046.png	ပေ
+test_images/test_000047.png	ဖတ်ကြည့်လိုက်၏။ သူထိုနာမည်ကို ဖတ်နေမှန်းလည်း ထိုလူ
+test_images/test_000048.png	ဒုက္ခနှင့်ရင်ဆိုင်တွေ့ကြုံနေရရှာသော အေမီက သူသည် ကူးနားပဲလေ့
+test_images/test_000049.png	မှ ကိုယ်ကျင့်သိက္ခာ ဖြူစင်မှလည်း အခြားသူတို့ဘက်က ကိုယ်ကျင့်သိက္ခာ ဖြူစင်လာမည် ဖြစ်၏။ ထိုအခါ လောက၌ ဒု
+test_images/test_000050.png	မူမြို့နယ်
+test_images/test_000051.png	အောက်
+test_images/test_000052.png	ရှိဘူးထင်ပါတယ်..
+test_images/test_000053.png	ဇဂြိုဟ်သို့
+test_images/test_000054.png	ရှိ အကြောစိုင်မှန်သမျှ တင်းမာနေသည်။ သူ့အား အ
+test_images/test_000055.png	တို့
+test_images/test_000056.png	ရား
+test_images/test_000057.png	မောင်မျိုးမြင့်
+test_images/test_000058.png	မြို့နယ်၊ ထင်ပါကျိုင်းကျေးရွာ
+test_images/test_000059.png	မှ ၁၉၉၁ ခုနှစ်၊ ဒီဇင်ဘာလ ၂ဝ ရက်နေ့တွင် ကြေ
+test_images/test_000060.png	နှစ်
+test_images/test_000061.png	ဘုတ်လေး
+test_images/test_000062.png	ဝင် စာချုပ်စာတမ်းများ 147 - ၎င်းပြင် ထိုသူတို့သည် (ယင်းကဲ့သို့ ဘေးအတန်
+test_images/test_000063.png	ဆောက်အအုံကို ခေါင်းမော့ကြည့်ကာ ချီးကျူးပြောဆိုနေသည်။ ဟာ ပ
+test_images/test_000064.png	ဖြေသည်။
+test_images/test_000065.png	ပြီးခဲ့တဲ့ အ
+test_images/test_000066.png	မင်းမြတ်
+test_images/test_000067.png	များ
+test_images/test_000068.png	နှောက် အသစ်
+test_images/test_000069.png	၀၅ ဖြစ်သည်
+test_images/test_000070.png	ငယ်
+test_images/test_000071.png	ပနိုင်ငံတွေမှာ ကျန်နေသေးတဲ့
+test_images/test_000072.png	ကား
+test_images/test_000073.png	မောင်
+test_images/test_000074.png	ပေါင်းကို ခေါ်၍အရှင်တို့ ... သင်တို့သည် ငါမရှိသော်လည်း မပျင်းရိကြကုန်လင့်၊ ငါ ဆရာရသေ့ကြီးကိုဖူးမြောက်ပြီးလျှင် ဟိမဝန္တာသို့ ပြန်လာမည် ဟု
+test_images/test_000075.png	နားစိတ်တစ်ခုတည်းနှင့် ခွင့်ပြုရတော့မှာတဲ့လား။ ဇနီးတစ်ယောက် ချစ်ရာရောက်အောင် ခုထိတော့ မပျက်သေးပါဘူး၊ ရော်ဘင်က သူသွားကြည့်တဲ့ လမ်းကို ကျွန်တော့်
+test_images/test_000076.png	သည်။ ယခု
+test_images/test_000077.png	၁
+test_images/test_000078.png	။ ကျွန်တော် ဆိုးခဲ့ ရမ်းခဲ့ တယ်။ ဘာမှအဆင့်မမီတဲ့ ရွာသာသာ
+test_images/test_000079.png	ခြားသစ်
+test_images/test_000080.png	အသိ
+test_images/test_000081.png	လိုက်၏။ စုသည် ကြီးကြီးမေရင်ခွင်
+test_images/test_000082.png	မည်
+test_images/test_000083.png	က မင်းနဲ့ ပူးပေါင်းပေးမယ် " ဆေပီယန်စ် -၂၄ တစ်နေ့တွင် ကိုဓာတ်သားက အင်း ဆရာတော်ဘုရားများကိုတော့ ဖူးမျှော်ပြီးပါပြီ၊ မင်းတို့ သဘင်ဂီတအဖွဲ့မှာကော ဘယ်သူတွေပါ
+test_images/test_000084.png	ကြီးကျယ်စွာဆောက်လုပ်လှူဒါန်းခဲ့လေသည်။ ပေါဠ
+test_images/test_000085.png	တစ်စိတ်တစ်ပိုင်းအနေဖြင့် သူမသည် တောင်အာဖရိကတွင် နယ်လ်ဆင်မင်
+test_images/test_000086.png	ရာသည်
+test_images/test_000087.png	ထည့်သွင်းကာ၊ ခြေ-လက်ပြုလျက် အထပ်အထပ်ဖွင့်ဆိုထားသဖြင့် ကျယ်ဝန်းသော အ
+test_images/test_000088.png	နှစ်
+test_images/test_000089.png	၍
+test_images/test_000090.png	တာဒေါ်မိုးသူပါလား၊ ကျွန်တော်တို့လမ်းထဲ မလာစဖူးလာတယ်၊ ဗန္ဓုလ ရုံမှာ
+test_images/test_000091.png	အ
+test_images/test_000092.png	။ ဆန်ကုန်သည်အဖြစ် အိမ်က ထွက်သွားရာက မယားတစ်ယောက်နဲ့ မူးစေ့အပေါက်ပဲ ပြန်ပါလာတဲ့ လူငယ်လေး။ သူ့အဖေက စောက်သုံးမကျရတဲ့အထဲ နောက်ထပ်
+test_images/test_000093.png	ခြင်း
+test_images/test_000094.png	မန်စက်
+test_images/test_000095.png	floor,
+test_images/test_000096.png	ဝန်ကြီးဘဝ ခြောက်နှစ်
+test_images/test_000097.png	င့်
+test_images/test_000098.png	သို့ ဆိုက်ရောက်လာ၍ ဆေးဆိုင်
+test_images/test_000099.png	ရှိ၏
+test_images/test_000100.png	၇ - ရွှေကော
+test_images/test_000101.png	သည်၊ မေထုန်လက်ဖျား၊ စမ္ပယ်နားလျက်
+test_images/test_000102.png	ဟေး တဝါး
+test_images/test_000103.png	နေရာ ဆေးရုံမှ ကျန်းမာလာသည်
+test_images/test_000104.png	ဧရာ
+test_images/test_000105.png	ဆောင်
+test_images/test_000106.png	ဖြစ် MMR009012022 Yae Hpyu ရေဖြူ ဟု ပြောပြီး ရုံးခန်းထဲခေါ်သွားသည်။ ရာသီဥတုရှိ၍ရေမဝပ်ဘဲ ထုံးကျောက်မြေဆံသည့် ဒေသမျိုး၌ ပိုမိုဖြစ်ထွန်းသည်။ မိုးပါးရေရှားသ
+test_images/test_000107.png	မ
+test_images/test_000108.png	မဆန်သော အခြေအနေများရှိသည်။ ဤအသွင်အပြင်သည် ဝင်ငွေ
+test_images/test_000109.png	ပြုံး
+test_images/test_000110.png	၂၀၁၄ သန်းခေါင်စာရင်းအရ မကျီးကုန်းကျေးရွာအုပ်စုတွင်
+test_images/test_000111.png	သခင်က ဝေါယာဉ်ပေါ်သို့ တက်ရန်ပြင်လိုက်၏။ ကျမ်းပြုကြသူများ
+test_images/test_000112.png	ကြောင့်ငါ့သမီးဝမ်းမှာလာမှီးသာပေါ့။ဖွားရက်ကလဆုတ်ဖွားရက်ထဲကျတော့ဆယ့်
+test_images/test_000113.png	၊ ဆိုင်သာဆိုင် မပိုင်ဘူးဆိုသလို ဖြစ်နေ
+test_images/test_000114.png	အကောင် နာမည်က ဘယ်သူကွ ကြိုင်သည် ပြုံး၍ ကျွန်တော့်ကို စိုက်ကြည့်သည်။
+test_images/test_000115.png	မြက်ရင်း သွေး
+test_images/test_000116.png	နားလည်ကာ ပြီးပြီးပျောက်ပျောက် သဘော
+test_images/test_000117.png	တေနှင့် ခေတ်မြန်မာမဂ္ဂဇင်း
+test_images/test_000118.png	လိုလား၊ ဒါဖြင့် အမေရိကန်ပြန်ကြီးဆီရော ဘာလို့ မသွားသလဲ၊ ဟိုက လက်မခံလို့ မဟုတ်လား ဪ.. ဆံပင်ညှပ်သ
+test_images/test_000119.png	လဲ သီတာ၊ အင်း . . .အေးမြတဲ့ သီတာပဲ ဖြစ်ရမှာပေါ့ ဟင့်အင်း၊ မဟုတ်သေးဘူး အစ်ကိုရယ်။ ဒါပေမဲ့ ဆက်ပြောလေ၊ ဆက်ပြောပါ။ ဆွန်ညာ နားလည်နိုင်မှာပါ။ အား
+test_images/test_000120.png	ထောက်ထိုင်ချ လိုက်
+test_images/test_000121.png	မလား အောက်မေ့
+test_images/test_000122.png	ပြန်ဆုတ်သွားခဲ့
+test_images/test_000123.png	စု
+test_images/test_000124.png	ရတယ်။ နောက်တော့ နုရီအဖေက သတင်းသဲ့သဲ့ ကြားတာနဲ့ နုရီကို အမြဲလာကြိုတော့
+test_images/test_000125.png	ဓားသိုင်းက တော်တော်ကောင်းတယ်၊ ထင်ပေါကို အဲဒီနည်းနဲ့တိုက်ရင် မရှုံးနိုင်ဘူး၊ အတွင်း
+test_images/test_000126.png	ခဲ့ပြီး ဆက်လက်ချီတက်ကြ၏။ ဤသို့အားဖြင့် အီဂျစ်စစ်ကြောင်းမှာ အ
+test_images/test_000127.png	၇၉-
+test_images/test_000128.png	ည့်
+test_images/test_000129.png	လက်
+test_images/test_000130.png	ဂန္ဒီကို ဘာမှပြန်မပြော
+test_images/test_000131.png	ပင်ကို
+test_images/test_000132.png	ကြည့်
+test_images/test_000133.png	ယှဉ်တွဲလျက် ရှိသည်။ စနစ်တကျစီစဉ်ပေါင်းစုထားသည့် အခြေခံဥပဒေ
+test_images/test_000134.png	တစ်လုံးနှင့် ထိုင်နေ၏။ ဦးလေးသည်
+test_images/test_000135.png	ရီဂျီအိုဗန္ဒီသည် အုတ်
+test_images/test_000136.png	ကြ
+test_images/test_000137.png	နေ့လယ်
+test_images/test_000138.png	ငေးငိုင် ကြည့်ရှုတော်မူလာ
+test_images/test_000139.png	ဥ
+test_images/test_000140.png	လောက် ကတော့ ဝက်ဝံတစ်ကောင်က အသာလေးလှဲချပစ်နိုင်တယ်လို့လည်း ပြောပြခဲ့ပါတယ်။ ဒါပေမဲ့ သူကတော့ တစ်လက်
+test_images/test_000141.png	ရှိသည့် ရှင်း
+test_images/test_000142.png	တိ
+test_images/test_000143.png	နဲ့
+test_images/test_000144.png	င့် နဂါးဘုရင်
+test_images/test_000145.png	လာ(ပြာ) သူသည် ဓားကို
+test_images/test_000146.png	သိမ်းထား ကြလို့လား
+test_images/test_000147.png	သဖြင့် စိတ်ပျက်စွာဖြင့် မာရ်နတ်ထွက်ခွါသွားရပုံကို ဟောတော်မူသည့်သုတ်။ အဘွားရော ... ဆေးရုံလိုက်သွားလား ရှေးခေတ်တရုတ်
+test_images/test_000148.png	မူ
+test_images/test_000149.png	ဖြစ်
+test_images/test_000150.png	နှက်နေ
+test_images/test_000151.png	ထွက်လာသည့် ခိုးဝင်
+test_images/test_000152.png	များမူကား ဘာမှန်းမသိရှာ
+test_images/test_000153.png	ကျေးသီးမြို့နယ်၊ ဝမ်စပ်ကျေး
+test_images/test_000154.png	ဏ
+test_images/test_000155.png	အဝါကို လိုက်ပြီး ဆုံးဖြတ်တာ ဖြစ်ချင်
+test_images/test_000156.png	လာ
+test_images/test_000157.png	အမိန့်ရထားကြောင်း၊ အကယ် ၍ မနာခံလျှင် မြင်းများကို လှည်းမှ အတင်းဝင်ရောက်ဖြုတ် ယူရလိမ့်မည်ဖြစ်ကြောင်းဖြင့် လူတစ်ယောက်ကိုစေလွှတ် ၍ အပြောခိုင်းလိုက်
+test_images/test_000158.png	ရှိုနာလူမျိုးဖြစ်
+test_images/test_000159.png	ဖြစ်
+test_images/test_000160.png	ထွင် ဖော်ထုတ်လာသည်။ အဆီးရီးယားနိုင်ငံ၏ လက်အောက်
+test_images/test_000161.png	ပင်
+test_images/test_000162.png	၊ မ ၁
+test_images/test_000163.png	သို့ တက်
+test_images/test_000164.png	နှာရည်ညွှန်း
+test_images/test_000165.png	မျက်နှာဖုံးကို မေ့ဆေး
+test_images/test_000166.png	ဦးဖြစ်လိမ့်မယ်ထင်တယ်။ ဝေဝေတို့
+test_images/test_000167.png	ထွန်းမောင်ကြီးက လှေကိစ္စ လုပ်စရာရှိတာတွေကို ပေါ့ပေါ့ပါးပါးပင်လုပ်သွားလေသည်။ လှေပိုင်ရှင်များက သူ၏တက်ကြွမှုကို သဘောကျနေကြလေသည်။ တိပိဋကဆရာ
+test_images/test_000168.png	ကျဖို့များတယ်ဗျ...ခွေးမသားပုလိပ်တွေက လိုင်းကြေးယူတုန်းကယူထားပြီး အမှုလို
+test_images/test_000169.png	ညံစွာ အော်ဟစ်သြဘာ ပေးကြလေတော့၏။ ဟန်ဆန်းတောင် ရောက် ကတည်းက တစ်ကိုယ်တည်း ပျင်းရိနေခဲ့သော လ
+test_images/test_000170.png	မှတ်ရမိသည်။ ညနေ ၆ နာရီတွင် စထရင်းဟိုတယ်လ်မှာ ညစာ စားပွဲရှိသည်။ ဂျူးလူမျိုးတို့အတွက်ကား ကြားနေမည်ဟု
+test_images/test_000171.png	င့်သည် ။ ၎င်းသူမတို့ကို ဟေဂျားဘ်ခြုံမှုမခြုံမှုတွင် လွပ်လပ်စွာရွေးချယ်ပိုင်ခွင့်ပေးသင့်သည်ဟုဖြစ်သည်။ ထို့အတွက်ကြောင့် ထို
+test_images/test_000172.png	သည်
+test_images/test_000173.png	ရင့်တပ်သားများက လိုက်လံတိုက်ခိုက်ရာ ကနီနော်ရ
+test_images/test_000174.png	လ
+test_images/test_000175.png	မီး
+test_images/test_000176.png	ရေးဆုံ
+test_images/test_000177.png	။ တစ်နေကုန် စားလိုက်၊ အိပ်လိုက်၊ အိမ်မှာ ဟို
+test_images/test_000178.png	ဘော်
+test_images/test_000179.png	usingthe(required!)INSEEcodeandasubtemplate.Thefields"region"and"department"arenolongerused.ဝေါလစ်နှင့်ဖူကျူးနား 90 days စေတော်မူ
+test_images/test_000180.png	အ
+test_images/test_000181.png	စိတ်ဒဏ်ရာတွေရဲ့ ကြိုးကိုင်
+test_images/test_000182.png	နောက်သို့
+test_images/test_000183.png	လူကို
+test_images/test_000184.png	ပဲခူးတိုင်းဒေသကြီး (အနောက်)၊ ပြည်ခရိုင်၊ ပေါက်ခေါင်းမြို့နယ်၊ ကြူဝတ်ကျေးရွာအုပ်စု၌ တည်ရှိသည်။ ရွာနေရာကုတ်မှာ ၁
+test_images/test_000185.png	သည်။ ထိုအခါ ငစွယ်ငယ်မှာ အဟုတ်တ
+test_images/test_000186.png	၊ မသွားဘူးလား၊ ဒါပဲပြော ၆၄-ပါးသော ဣန္ဒြေတရား ဒေါ်ခင်မြသစ်သည် ကိုမြင့်ထူး၏ဝတ်ရုံကြီးကိုသိမ်းကျုံး
+test_images/test_000187.png	သက်ချမ်းသာရာ ရခဲ့ဖူးပါတယ်။
+test_images/test_000188.png	အ
+test_images/test_000189.png	နိုင်စွမ်းကို စံပြုထား
+test_images/test_000190.png	ဒါပေမဲ့
+test_images/test_000191.png	မတူ ချေ။
+test_images/test_000192.png	ငံတော်
+test_images/test_000193.png	တာတွေကပါ အယ် လ်ခီဘီအာ့ဒိစ်
+test_images/test_000194.png	ပြည့်နှစ်
+test_images/test_000195.png	ညီ
+test_images/test_000196.png	ရေး မာရ
+test_images/test_000197.png	ရေးလှ
+test_images/test_000198.png	တို့ကို ဖလမ်းချင်းဘာသာစကား၏ ဒေသိယစကားအဖြစ် စာရင်းပြုထားသည်။ စကားအ
+test_images/test_000199.png	သိ
+test_images/test_000200.png	ည့်ပြင် အကြောင်း
+test_images/test_000201.png	တာ လွယ်တာ မဟုတ်ဘူး" နောက် ဒီအလုပ်လုပ်စားရင် ရှင် မသေ
+test_images/test_000202.png	ဒီမိုကရက်တစ် သမ္မတနိုင်ငံ နှင့် မြောက်ရိုဒီးဇီးယားနိုင်ငံ (ဇမ်ဗီယာနိုင်ငံ)
+test_images/test_000203.png	ရွာအုပ်စုတွင် ကျား
+test_images/test_000204.png	Gyi(TaungKanGyi)ကန်ကြီး (တောင်ကန်ကြီး) ၁၉၆၀တွင် သမ္မတရာထူးအတွက် ယှဉ်ပြိုင်ခဲ့သော်လည်း ဒီမိုကရက်တစ်ပါတီမှ သမ္မ
+test_images/test_000205.png	သည့်အချက်ကို နားလည်သဘောပေါက် လက်ခံရန် လိုအပ်ခြင်း ဖြစ်သည်။ ကျွန်တော် ဆတ်
+test_images/test_000206.png	ဒစာစောင် ရေးသားပြီးနောက် တနှစ်အကြာတွင် ရေးသား
+test_images/test_000207.png	ဟု ဆိုသည်။ သည်တော့ကျွန်မကပြန်ရောက်ရသည်။ မည်သည့်ခံစားချက်မျှလည်း ဖြစ်မလာ။
+test_images/test_000208.png	အရ ငါးရှဉ့်ရိုးကျေးရွာအုပ်စုတွင် ကျား ၆၅၄ ဦး၊ မ ၇
+test_images/test_000209.png	မှာ ပိုမာကြောရ
+test_images/test_000210.png	မြို့နယ်၊
+test_images/test_000211.png	က ရှည်ကော့ပြီး မျက်ဝန်း
+test_images/test_000212.png	ရောက်
+test_images/test_000213.png	င့် အကြိမ်ကြိမ် တားမြစ်ကြသော်လည်း မိမိ အဆွေခင်ပွန်းကို စွန့်ပယ်ခြင်း မရှိလေ၏။ ဦးမြသန်းက ငြိမ်
+test_images/test_000214.png	ထိုင်းအဆင့်ကိုမိခင်ဘာသာစကား (သို့) ဇာတိနီးပါးအဆင့်တွင်ကျွမ်းကျင်ကြသည်။ သူတို့
+test_images/test_000215.png	ပြုအောင် ဆွဲဆောင်ခဲ့သည်ဟု ထင်၏။
+test_images/test_000216.png	။ လူဦးရေသိပ်သည်းဆသည် တစ်စတုရန်းကီလိုမီတာလျှင် ၁၄၃ ဦး ရှိသည်။ စုစုပေါင်း
+test_images/test_000217.png	နတ်ကို
+test_images/test_000218.png	ပိုက်ပြီး သမီး .... သမီးက
+test_images/test_000219.png	ပင် ပြင်ဆင်
+test_images/test_000220.png	အား
+test_images/test_000221.png	တယ်၊ ပြီးမှ မြေကမူ မြေပုံတွေဘက်ကို လှည့်တယ်။ ယဉ်ကျေးမှု
+test_images/test_000222.png	၍ ခုတင်ဘက်ကိုမခေါ်၊ ဆိုဖာရှိရာ
+test_images/test_000223.png	မည်
+test_images/test_000224.png	မျှ အသုံးမဝင်။ လွမ်းချင်းစပ်နည်း ပထမဆုံး
+test_images/test_000225.png	caseof#switch,averagepagecounts)
+test_images/test_000226.png	မှာသန်းခေါင်ထက်နက်တာ မရှိပေမယ့် အပါယ် ငရဲကတော့
+test_images/test_000227.png	တတ်လို့
+test_images/test_000228.png	ပြောင်းအလဲတွေကို သိကောင်းမှ သိမှာပေါ့။ ဖြစ်သော်လည်း၊ တရုတ်နိုင်ငံတွင် ချူမင်းဆက်အစ ဘီစီ "ဆက်သွယ်ရေး ခက်ခဲ
+test_images/test_000229.png	မှာ ဒဏ်ရာပြင်းထန်သည် မှန်သော်လည်း ခေါင်းမထောင် နိုင်လောက်အောင်တော့ မဟုတ်သေးချေ။ ဦးခေါင်းမှာ ကြည်ကြည်လင်လင်ပင် ရှိနေ၏။ အခြေအနေအရပ်ရပ်ကို
+test_images/test_000230.png	ဘာပြောသည်ကို ဝေလငါးဂိုဏ်းမှ ကောင်းစွာ မကြားရချေ။ ကောင်းပါပြီ ဆရာ၊ ကျွန်မ
+test_images/test_000231.png	လေ
+test_images/test_000232.png	တွင်
+test_images/test_000233.png	အယ်လ်ဂျီးရီးယန်း
+test_images/test_000234.png	ခုအချိန်ထိ စီစဉ်
+test_images/test_000235.png	တော့
+test_images/test_000236.png	လှယ်အဖွဲ့ လန်ဒန်
+test_images/test_000237.png	ကွေ့တဲ့။ ကျွန်မဘဝမှာ အချိုးအကွေ့တွေ တော်တော်များပါသည်။ ဘယ်အချိုးအကွေ့က အရေးပါ
+test_images/test_000238.png	၊
+test_images/test_000239.png	ပါတယ်ဗျာ သိပါတယ် လုပ်စရာမရှိတော့
+test_images/test_000240.png	င့် ထွက်လာ
+test_images/test_000241.png	မခွဲ
+test_images/test_000242.png	ထုတ်ဝေ
+test_images/test_000243.png	ကျောက်တုံးကို
+test_images/test_000244.png	၊ ငါက အခု ဒုန်ဝန်းမြို့စား ဖြစ်နေပြီမို့လား၊ ဆယ်မြူ ဆယ်မြူအသာလေး၊ ဟားဟားဟား ကဲလာလာ
+test_images/test_000245.png	ပျိုး ရူပဗေဒဖြင့် တိကျစွာ တွက်ချက်မရတော့သော ကိစ္စရပ်များကို နှိုင်း
+test_images/test_000246.png	ပန်ကောင်
+test_images/test_000247.png	ပီး နောက်တစ်ခုကတော့ ကိုးရိုးကားရားမဖြစ်အောင် အာရုံမ
+test_images/test_000248.png	ကြိမ်၊ ထိုနောင် ဘဝင်ဖြစ်ထိုက်သ၍ ဖြစ်၏ ။
+test_images/test_000249.png	စုမှမော်လမြိုင်အ
+test_images/test_000250.png	ဗျ။ ကျွန်တော်တို့ တပ်တွင်းဆိုင် က ပစ္စည်းသိပ်စုံတာ
+test_images/test_000251.png	ဏေ
+test_images/test_000252.png	တန်းမျှသာ သင်ကြားခွင့်ရခဲ့သော်လည်း အလုပ်နှင့် စကားပြောတတ်သူ၊ အချိန် လေး
+test_images/test_000253.png	ခင်
+test_images/test_000254.png	ကျင်းပခဲ့ပြီး န.ဝ.တ အစိုးရမှ ကျပ်သိန်း ၆၃
+test_images/test_000255.png	anotherevent,butingeneralyou'reallowedtouse
+test_images/test_000256.png	တယ်။ တဲ
+test_images/test_000257.png	၂၁၁၅၀
+test_images/test_000258.png	ရန်သူ့တပ်မှူးတစ်ဦး၏
+test_images/test_000259.png	ဟူ၍ သီးခြားမရှိခဲ့ဘဲ၊ ရောမနိုင်ငံတော်
+test_images/test_000260.png	၁၆၁၄ ခုနှစ် အိုဆာကာမြို့ သိမ်းပိုက်ရေး အတွက် ကန
+test_images/test_000261.png	ရတနာပြဇာတ်ကို စီစဉ်တင်ဆက်ခဲ့၍ မြတ်မွန်ရတနာ ပြဇာတ်စာအုပ်ကို စာပေဗိမာန်မှ ဖြန့်ချိထုတ်ဝေခဲ့
+test_images/test_000262.png	တိုင်းပဲ ကြည့်
+test_images/test_000263.png	ချယ်ခဲ့သည်။ ကိန်းကဏန်းများဖြစ်
+test_images/test_000264.png	မကောင်းရင် ဟိုကြလန်းသွားမှာ
+test_images/test_000265.png	ကချင်နှင့် ကရင်အမျိုးသား များလည်း သိပ်မတွေ့ရတော့။ အောက်ပိုင်းမှ ကုန်သည်များကိုကား လုံးဝပင်မမြင်ရတော့ ချေ။
+test_images/test_000266.png	ကြောင်း
+test_images/test_000267.png	ဝှိုဝ်း ဠှိုဝ်း။ ချော
+test_images/test_000268.png	မှန်ဘီလူးကို ပုံရိပ် လာရိုက်
+test_images/test_000269.png	ဝ
+test_images/test_000270.png	သက်ရှစ်ဆယ်လောက်ရှိတဲ့ ဘကြီးမိုးတောင် တောင်ပေါ်မှာ ရှိနေတာပဲ ချောင်းမမွေတော်စေတီတော် ဘုန်းကြီးက ဒကာမကြီးကို ဘာတောင်းဖို့ အကြံပေးခဲ့လဲ။ ဟို အဲ ဒေသကို
+test_images/test_000271.png	များထဲ
+test_images/test_000272.png	၄၆ ခုနှစ်
+test_images/test_000273.png	ဘရက်က ဆက်ပြောသည်။ ဒီနေ့ကစပြီး
+test_images/test_000274.png	ဘူးသော ဖခင်၏
+test_images/test_000275.png	ဘိ
+test_images/test_000276.png	ညနေခင်း၌ အိမ်ဝိုင်းထဲ ဆိုင်
+test_images/test_000277.png	ခရိုင်၊ ဖားကန့်မြို့နယ်၊
+test_images/test_000278.png	ကော့
+test_images/test_000279.png	ဟေ . . . ဟုတ်လား ငလျင်လှုပ်ခြင်းများ၏ အကျိုးဆက်များ/သက်ရောက်မှု
+test_images/test_000280.png	ထို့နောက် အမျိုးသမီးကို နှုတ်မဆက်
+test_images/test_000281.png	လက်
+test_images/test_000282.png	က
+test_images/test_000283.png	အ
+test_images/test_000284.png	ကျရောက်နိုင်အောင် လည်းကောင်း၊ ပျောက်ကင်း ချမ်းသာစေရန်လည်းကောင်း အသုံးပြု၏။ အဆိုးဆုံးကကိုတိုးကြီးဖြစ်
+test_images/test_000285.png	ခဲ့လို့လဲ၊ ဘာဖြစ်လို့ ဒီလိုဖြစ်ရတာလဲ။ ဘာဖြစ်လို့လဲInjangyangMMR001003022HkanDaukYangခန်ဒေါက်ယန် "မအေဘေး ခုကျတော့ စတိုင်တယ်
+test_images/test_000286.png	ခုရှိရိုခရိုင်၊ ခုရှိရိုတိုင်း၊ ခု
+test_images/test_000287.png	ထူးခြားလှပေသည်
+test_images/test_000288.png	thoseattributeswhichwehaveputonhim.တိုက်တွန်းထားတယ်..ဟုတ်လား နှောင်း" ခဲ့ပြန်သည်။ သို့သော် စစ်ကြီးပြီး၍ ရုပ်ရှင်များ ရွာလင်းရွာ (အင်္ဂလိပ်: Ywarlin)သည် မကွေးတိုင်းဒေသ
+test_images/test_000289.png	တော့်
+test_images/test_000290.png	အချိန်တွေမှာ ငြိမ်းချမ်းသာယာတာကို ခံစားရတဲ့အချိန်တွေမှာ တစ်ခြား
+test_images/test_000291.png	နှင့်ငါ စင်စစ် ပေါင်းဖော်ခြင်းဖြစ်တန်ရာ၏ ။ လက်ကလေးနှစ်ဖက်ကို ဖြန့်ကာ ဝန်းဝိုင်း
+test_images/test_000292.png	စာ
+test_images/test_000293.png	သုံးပြီး
+test_images/test_000294.png	မျောက်၏ဇနီးအား သိမ်းယူတာထားပါတော့၊ တိရစ္ဆာန်ကိုး၊ လူဘုရင်တွေက စစ်ရှုံးသူ၏ ဇနီးမယားကို သိမ်းပိုက်တာတော့ လွန်လွန်းသည်ဟု ကျွန်မ ယူဆသည်။ မိန်းမတွေခ
+test_images/test_000295.png	ဆက်သွယ်စုံ
+test_images/test_000296.png	ပါတယ်
+test_images/test_000297.png	ရက်လောက်လည်းရရော
+test_images/test_000298.png	ရွာတွင်
+test_images/test_000299.png	ဝမ်းလျှောခြင်း ဟုခေါ်သည်။ ကို ကျော်ဖြတ်လာခဲ့၍
+test_images/test_000300.png	စားသောက်နေကြဟန်ရှိသည်။ ကျော မောင်
+test_images/test_000301.png	စိန် တို့
+test_images/test_000302.png	ထွက်
+test_images/test_000303.png	မိမလား မသိဘူး၊ အန်တီ မီ
+test_images/test_000304.png	၊ ဝေဟင်ပေါ်ပျံ
+test_images/test_000305.png	ချက်
+test_images/test_000306.png	စ
+test_images/test_000307.png	ည့် ကိစ္စရပ်မှန်သမျှကို သိနိုင်ဆုံးသော အခြေအနေ
+test_images/test_000308.png	ရီ စိတ်ကို ဖတ်ကြည့်ပြီး မင်း ဒီလိုလုပ်တာကို သိသွားရင်.. မည်သို့ပင်ဖြစ်စေမြေ
+test_images/test_000309.png	DaweiEducationDegreeCollege;
+test_images/test_000310.png	မင်းပြုတော်မူ၏။ သန်
+test_images/test_000311.png	ပေါက်
+test_images/test_000312.png	၀ဖြစ်စဉ်
+test_images/test_000313.png	မှ
+test_images/test_000314.png	န့်
+test_images/test_000315.png	တယ်
+test_images/test_000316.png	ကား အောက်မြို့ကျေးရွာသို့သွားတော့မည်။ ယခုအခါ
+test_images/test_000317.png	ထောင် မြန်မာနိုင်ငံအသင်းသည် ၁၉၆၀ နွေရာသီ အိုလံပစ်ပြိုင်ပွဲသို့ ဝင်ရောက်ယှဉ်ပြိုင်ခဲ့သည်
+test_images/test_000318.png	ရာကုတ်မှာ ၁၆
+test_images/test_000319.png	ဝန်
+test_images/test_000320.png	ရာ
+test_images/test_000321.png	boththe
+test_images/test_000322.png	တို့ တည်းခိုကြသည့် ဟိုတယ် များနှင့် အ
+test_images/test_000323.png	ထားသီ
+test_images/test_000324.png	ရတဲ့ ဘာသာရပ်မျိုး မဟုတ် ပါဘူး။ လင်္ကာတွေကို မဆန်းစစ်
+test_images/test_000325.png	လီနိုင်ငံသို့လည်း ပျံနှံ့
+test_images/test_000326.png	ယက်နမ် နယ်ချဲ့
+test_images/test_000327.png	အခင်ကို လိုသမျှဖွင့်
+test_images/test_000328.png	မြန်မာနိုင်ငံနဲ့ပတ်သက်လို့ ဆောင်ရွက်စရာ
+test_images/test_000329.png	ဝတ်
+test_images/test_000330.png	သန်း
+test_images/test_000331.png	ဘာလုပ်
+test_images/test_000332.png	ဖေ
+test_images/test_000333.png	။ ကိုယ်ရပိုင်တဲ့ အခွင့်အရေး
+test_images/test_000334.png	ကို တစ်နေ့လုံး လိုက်ပြီး
+test_images/test_000335.png	သည်။ ဂျာနယ်လစ်များက
+test_images/test_000336.png	မောက်များနှင့် ပုံစံမတူ
+test_images/test_000337.png	တစ်ခုကို ဆိုခဲ့သည်။ ကမ္ဗလဿ တ
+test_images/test_000338.png	၏။ ကိုယ်ထင်ပြလာသူကဲ့သို့ အခန်းဝတွင် မြိုင်က မလှုပ်
+test_images/test_000339.png	ပုံ ရ၏။ ထို
+test_images/test_000340.png	လို လုပ်
+test_images/test_000341.png	သည်။ အုန်းဆီထုတ်သည်။ နာနတ်ပင်များကို အကြီးအကျယ် ဦးလေး ဦးလေးနဲ့ မခေါ်ပါနဲ့ဟ။ ငါ အဲဒီလောက်
+test_images/test_000342.png	။ ၁၉၆၈-
+test_images/test_000343.png	သည် သည်
+test_images/test_000344.png	ဘ
+test_images/test_000345.png	၉ ဖြစ်သည်။ ၂၀၁၄ သန်းခေါင်စာရင်းအရ လွဲမွန်ကျေးရွာအုပ်စုတွင် ကျား ၁၅၃၁ ဦး၊ မ ၁၇၂၄ ဦး၊ လူဦးရေစုစုပေါင်း ၃၂၅
+test_images/test_000346.png	လွင့်
+test_images/test_000347.png	ဂျိမ
+test_images/test_000348.png	စံဖြိုး
+test_images/test_000349.png	တော့မယ်။ ခင်ဗျားကို လာ
+test_images/test_000350.png	ခဲ့သည်
+test_images/test_000351.png	ကား
+test_images/test_000352.png	တည်
+test_images/test_000353.png	ကြီးဆုံး လုပ်ငန်း
+test_images/test_000354.png	ခြင်းလျှင်၊ တန်ဆာဆင်၏၊ နှုတ်မင်္ဂလာ၊ စကားမှာကား၊ အသာ
+test_images/test_000355.png	ညီ၊ လမ်းတော်ဖိုးတုတ် သည် တပည့်များအား
+test_images/test_000356.png	တွေ အများကြီးပါလား၊ ငါ
+test_images/test_000357.png	မေရိကားက မက်ဆာချူးဆက် စက်မှုသိပ္ပံကို ဆက်တက်
+test_images/test_000358.png	ခဲ့သူဖြစ်ပြီး ပန်းချီဉာဏ်သစ်လောင်းသင်တန်းများ ဖွ
+test_images/test_000359.png	မဏိပဲတဲ့" တက်စသည် တညနေလုံး ကြီးမားသည့် မြေပုံချပ်ကြီးကို ကြည့်နေပြီးနောက် မိတ်ဆွေအမတ်တယောက်နှင့် သွား၍ ည
+test_images/test_000360.png	လွယ်
+test_images/test_000361.png	အ
+test_images/test_000362.png	ပြီ
+test_images/test_000363.png	စီး
+test_images/test_000364.png	ဝ ပေးခဲ့သည်
+test_images/test_000365.png	Wardအမှတ် (၁၄) ရပ်ကွက် အခုဆို ကစ်ကစ်
+test_images/test_000366.png	လား..
+test_images/test_000367.png	ပင် အထက်ရှိ ကျောက်လွှာတို့မှ မြင့်မားသော အပူချိန် နှင့် ဖိအားတို့ကြောင့် အသွင်ပြောင်းကျောက်အဖြစ် ပြောင်းလဲလာနိုင်သည်။ ခင်စိုးပိုင်နဲ့လား ရှိတယ်
+test_images/test_000368.png	အုပ်စု
+test_images/test_000369.png	များကို Tanai MMR001004017 Ta Ron တရုံ ဟူ၍ ဖြစ်လေ၏။ ကိုသန်းတင်တို့လူစု၊ အထက်တန်း ကျောင်းသား အတော်များများနှင့် မြန်မာဘာသာ ကျောင်းသားများ၊ အရပ်သူ အရပ်သား အချို့၏အ
+test_images/test_000370.png	ရွက်ပင်
+test_images/test_000371.png	ကောင်း
+test_images/test_000372.png	၀
+test_images/test_000373.png	ပိုး
+test_images/test_000374.png	ပိုက်
+test_images/test_000375.png	ခြေအနေပေါ်၌လည်း တည်၏။ ဇေ
+test_images/test_000376.png	ရိုးမီးများ ဝါးမျိုလို့ မြတောင် ရွှေကျောင်းတော်ကြီးတို့လိုအဆောက်အဦးကြီးတွေ ကြည့်စရာမရှိတော့တဲ့အချိန်မှာ ရှားပါးနေပြီဖြစ်တဲ့ မဟာမုနိအရှေ့မုခ်ကျွန်းသားပြာသာဒ်
+test_images/test_000377.png	ကျယ်
+test_images/test_000378.png	သူ သို့မဟုတ် ဩဇာတိက္ကမကြီးမားသူများ ပေါ်ထွက်လာပါက အခြားသူများအ
+test_images/test_000379.png	သိမ်းကာ မှော်ဘီ စိုက်ပျိုးရေးစခန်းကို ဌာနချုပ်ဖွင့်၍ သူတို့အား ခုခံရခြင်းပင် ဖြစ်သည်
+test_images/test_000380.png	စ
+test_images/test_000381.png	တိုက်မ အထက်ရှိ ပစ္စယာဆင့်များတွင် ပုံစံအမျိုးမျိုး အကွက်အမျိုးမျိုး ဖော်ထားသည့် စဉ့်သုတ်စိန်တန်းများဖြင့် တန်
+test_images/test_000382.png	လာလမ်ပူသည် ဆီလန်ဂေါ ပြည်နယ်ထဲမှာ ရှိ၍ ထိုပြည်နယ်ကို အုပ်ချုပ်သော မလေးဘုရင်က ကွာလာလမ်ပူ
+test_images/test_000383.png	နတ်က
+test_images/test_000384.png	သီးများ တပ်၍ ထားသော
+test_images/test_000385.png	သည့် ခွေးအများကို ထပ်မံပစ်ခတ်ပြန်၏။ ကျည်ဆံတိုင်းပင် ခွေးအများကို ထိမှန်လေရာ နောက်ဆုံးတွင် ရှင်းလင်းသွားလေသည်။ 'ဪ
+test_images/test_000386.png	သွားသည့်ကုန်တွေ အရှုံးပေါ်သွား၍ ဟုဆိုကာ လျှော့ပေးတာတွေရှိသည်။ ကိုယ်လူကြုံပါးလိုက်သည့်ငွေကို နည်းနည်း
+test_images/test_000387.png	ခိုလှေများအကြောင်းကို ကြားဖူးသည် သည်စက်လှေများ
+test_images/test_000388.png	ထောင်သူလည်း
+test_images/test_000389.png	ခရိုင်
+test_images/test_000390.png	သနဝိဇ္ဇော
+test_images/test_000391.png	မြေစေးတွင် အညစ်အ
+test_images/test_000392.png	ပ
+test_images/test_000393.png	မြက်လိုသူ
+test_images/test_000394.png	သာမဟုတ်၊ အသီးနှင့် အရွက်ရရန်အတွက်ပါ စိုက်ပျိုးကြသည်။ အသီးကို
+test_images/test_000395.png	ကတံ ကရဏီ
+test_images/test_000396.png	လုပ်မဖြစ်။ နောက် ဆုံး ရထားသည် ခပ်စောစောကပင် ပါရီသို့ ထွက်
+test_images/test_000397.png	လေး
+test_images/test_000398.png	ပြီးနောက် ကားပြန်၍ ထွက်သွားသောအခါ ကားပေါ်၌ ပါးစပ်တွင် အဝတ်များ စည်းနှောင်ထား
+test_images/test_000399.png	ကြည်မှုတစ်ခု
+test_images/test_000400.png	တူတူစား
+test_images/test_000401.png	ကားရိုက်ရန်အတွက် လားရှိူးသို့ ပြန်
+test_images/test_000402.png	သစ်လေ
+test_images/test_000403.png	ဝင်ရောက်ယှဉ်ပြိုင်
+test_images/test_000404.png	တာ
+test_images/test_000405.png	တယ်။ သူဇာလွင် ခေါင်းခါလိုက်တယ်။ သူ ခေါင်းခါပြနေတာကို မင်းခန့်ထူး မြင်ပါစေ။ မလာ
+test_images/test_000406.png	ယောက်စလုံး မသင်္ကာစရာ တစ်ခုခု တွေ့ လို့ ရန်သူ့နောက်ကို လိုက်သွားကြတာ ဖြစ်ရမယ် တစ်စကို ကာဗွန်တုံးနှင့် ဆက်ထား၍ ကျန်တစ်စ
+test_images/test_000407.png	တွင်
+test_images/test_000408.png	ခုနှစ်ရက်သားသမီးများနှင့် ပူးပေါင်းပြီး အထက်ဌာပနာ ထည့်သွင်း
+test_images/test_000409.png	သည်။ အတွေ့လေးရယ်မှ အိုအကြုံ (၁၉၉
+test_images/test_000410.png	ဆောင်မှု ပေးနိုင်ခဲ့
+test_images/test_000411.png	လာကြသည်။ စစ်ရထားပေါ်တွင်သာ အစဉ်အမြဲ တွေ့မြင်ခဲ့ရသော သူ
+test_images/test_000412.png	စစ်
+test_images/test_000413.png	နေအထိ အဖြစ်အပျက်များ
+test_images/test_000414.png	လေးမ
+test_images/test_000415.png	တွင် မျက်နှာပြင်တစ်ခုတည်းသာရှိသော်လည်း သိပ္ပံပညာ ဆက်တိုက်ယူလာခဲ့သော ကေသွယ်အတွက် သိပ္ပံနှင့် နီးနီးစပ်စပ် ဟူ၍ မူလတန်းကျောင်းတွင်
+test_images/test_000416.png	ကျင်းအား နတ်မိမယ်တမျှ ထင်မှတ်ပြီး မြတ်နိုးခဲ့သည်။ သူမ အလှရိပ်တွင် ယစ်မူး
+test_images/test_000417.png	ဏခဏ မေးသည်။ ကျောင်းဆင်းသောအခါ ကျော်စွာတို့သည် ပူနှိပ်တို့အိမ် ဘက်သို့ သွားရလေသည်။ ကယားလူမျိုးစုဒီမိုကရေစီပါတီ နှင့် လူမျိုးပေါင်းစုံဒီမိုကရေစီ
+test_images/test_000418.png	အမြင်ကို လိုက်နာသူများသည်
+test_images/test_000419.png	တယ်။ ပြီးတော့ Keygen ထဲမှာ သွား Paste လုပ်၊ Generate Activation Code ကိုနှိပ်။ ထွက်လာတဲ့ Activation Code ကို
+test_images/test_000420.png	သည် ဇုနတ်မင်းကြီးနှင့် တူသော်လည်း ပို၍ ဣန္ဒြေကြီးပြီး
+test_images/test_000421.png	ဆီး
+test_images/test_000422.png	။ နန်းတော်ရှေ့ ဆရာတင် သားကလေးများနည်းတူ ကျွဲကျောင်းခိုင်း၏။ မော်ဂလီမှာ
+test_images/test_000423.png	ဟစ်ပိုဂိုဏ်းအုပ်၏လက်ထောက်အဖြစ် တာဝန်ယူပြီး ၅နှစ်အကြာ ဂိုဏ်းအုပ်ကွယ်လွန်သော် ရာထူးတိုး၍ ဟစ်
+test_images/test_000424.png	လို့မှ မဆုံးမီ သိန်း
+test_images/test_000425.png	နေတာ၊ ရောင်ဘန်ရွာ (အင်္ဂလိပ်: Yawngbang)သည် ရှမ်းပြည်နယ် (မြောက်)၊ ပလောင် ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်
+test_images/test_000426.png	နောက်ဆုံးတွင် ကြယ်ပုနက် (black dwarf) အဖြစ် မှေးမှိန်သွားမည်ဖြစ်သည်။ နေနှင့် အနီးဆုံးကြယ်မှာ ပရိုဆီ
+test_images/test_000427.png	မှ
+test_images/test_000428.png	ရာတွင် လိမ့်၍ကျလေပြီဟု ခန့်မှန်းသိရှိရသော်လည်း ထွက်ပြီးဆင်းမသွားဝံ့၊ ဆင်းသွားခါမှ ဖွပ်သည်ထက် ညစ်
+test_images/test_000429.png	င့်
+test_images/test_000430.png	တော်ဝန် ကော့ခ်
+test_images/test_000431.png	။ အကြောင်း
+test_images/test_000432.png	ဖောမီး (Anseriformes)" အတွင်း ပါဝင်
+test_images/test_000433.png	တော် ပါတဲ့ ရွှေရှူဆေးဘူးချီးမြှင့်ခံရတဲ့ကိစ္စဟာ အမှုတော်ထမ် ကောင်းတဲ့အတွက် ဘွဲ့ထူးဂုဏ်ထူးချီးမြှင့်ခံရ
+test_images/test_000434.png	သူ့မိန်းမဆီကို ပေးလိုက်တဲ့အလုပ်ပါ၊ ကျွန်မ ပို့ပေးရမှာပေါ့ ရင်သွေးငယ်အာဟာရ သန္တေသားမှစ အင်ဒို
+test_images/test_000435.png	ဒင်း ပွိုင့်တူးတူး သေနတ်သံကလေး ထွက်သွားသလို ...
+test_images/test_000436.png	ပါကညော ထန်းရည်တစ်ခွက် ကိုထည့်ပြီး ခပ်မြန်မြန်ဂလုချလိုက်တယ်။ ဟုတ်တယ်လေ။ ဒီလောက်တောင် ဆေးဖက်ဝင်နေမှတော့ ဘာမဂလုစရာရှိ
+test_images/test_000437.png	မအေးပေး
+test_images/test_000438.png	မနည်း ပြန်တည့်ယူရ
+test_images/test_000439.png	အတွင်း မြန်မာပြည်အနှံမှ
+test_images/test_000440.png	ချို့
+test_images/test_000441.png	ခေါ်၍ တစ်ပြိုင်
+test_images/test_000442.png	မင်းတပ်မှာ ကနောင်မင်းသား၏ ငယ်နာ
+test_images/test_000443.png	နိုး
+test_images/test_000444.png	ဘု
+test_images/test_000445.png	လဲ။ဒေါ်ဒေါ်က အသက်ကြီးပေမယ့် မျက်နှာကတော့ နုနုကလေး ရှိနေသေးလို့မို့ ဝတ်နိုင်ပါတယ် ဒေါ်ဒေါ်ရယ် လုရင်းလိုက်ရင်း စုတ်ပြဲ
+test_images/test_000446.png	။ အပြစ်
+test_images/test_000447.png	သာယာကုန်း - ပဲခူးခရိုင်၊ ကျောက်တံခါးမြို့နယ်၊ ကြာအင်းကုန်းကျေးရွာအုပ်စု၊ ပီကုတ်(220102)ChampionofKandawgyiDota
+test_images/test_000448.png	ထောက်အ
+test_images/test_000449.png	။
+test_images/test_000450.png	။
+test_images/test_000451.png	ခုနှစ် ဩဂုတ်လ ၃
+test_images/test_000452.png	အ
+test_images/test_000453.png	ဖြ
+test_images/test_000454.png	ကာ၊
+test_images/test_000455.png	ပိုင်ကြံပါ။ ဂျိုးဆက်စတိန်း
+test_images/test_000456.png	၈) ကြင်နာသူနှစ်ဦး ဆုံနိုင်ရင် (၁၉၉၇) ဟား ကောင်းပါတယ်။ အများကြီးကို ကောင်း
+test_images/test_000457.png	ကို အလယ်က ထက်ဝက်ခြမ်း
+test_images/test_000458.png	လဲ ကလေးအသက် ဘယ်လောက်
+test_images/test_000459.png	ဟားရယ်၏။ 32. Lords of the Sunset. ဒါပေမယ့် ကျွန်တော်ဘာမှမပြောမိ...။ ဒီအတိုင်းလေးပဲ အသက်ကိုထိန်းရှူရင်း ဖုန်းကိုနားမှာကပ်ထားမိသည်။ သို့သော် အချိန်အ
+test_images/test_000460.png	ဏလေး ငြိမ်
+test_images/test_000461.png	နလုပ်ငန်း၏ အဆင့်တစ်ဆင့်အောင် မြင်သည်ဆိုသော သတင်းပင်ဖြစ်ပါသည်။ ယခင်က သစ်ပင်တို့၌
+test_images/test_000462.png	မန်ကြီးက ဘာမျှ
+test_images/test_000463.png	င့် နည်းပညာ အဖွဲ့အစည်း အသင်းဝင်များ နှင့် ဈေးကွက်အတွင်းမှ အကျိုးတူ
+test_images/test_000464.png	ဖြစ်
+test_images/test_000465.png	ကို လန်းဆတ် စေသည့် ဝိုင်
+test_images/test_000466.png	အတိုင်းဖြစ်
+test_images/test_000467.png	ရိုင်၊ တွန်းဇံ
+test_images/test_000468.png	အချင်း
+test_images/test_000469.png	ဝတီမင်းသား ရွှေဘိုသို့ထွက်ကာ အင်အားစု၍ ပုန်ကန်သည်။ ပုန်ကန်မှုအောင်မြင်သဖြင့် သာယာဝတီမင်း နန်းတက်သည်။ နန်းမတော်မယ်နု၊ မင်းသား
+test_images/test_000470.png	အမျိုးသမီးဘက်သို့ ခေါင်းညွှတ်
+test_images/test_000471.png	ရွရွနှုတ်ခမ်းဖြင့် သူ့ခေါင်းကို
+test_images/test_000472.png	အင် သုံးစွဲနိုင်အားမှာ ၅၅,၅
+test_images/test_000473.png	လာ
+test_images/test_000474.png	လည်း သူ
+test_images/test_000475.png	ကုတ်မှာ ၂၁၉၈၆၂ ဖြစ်သည်။ ၂၀၁၄ သန်းခေါင်စာရင်းအရ မိုင်းဟွမ်ကျေးရွာအုပ်စုတွင် ကျား ၁၈၂၀ ဦး၊ မ ၁၇၅၇ ဦး၊ လူဦးရေ စုစုပေါင်း
+test_images/test_000476.png	အများဆုံးဆေးကို အသက် ၂
+test_images/test_000477.png	မှ အီရတ်တွင် ဆဒမ်အားဖယ်ရှားရန် အီရတ်ကို ၂၀၀၃၌ တိုက်ခိုက်ခဲ့သည်။ ယင်းတိုက်ခိုက်မှုတွင် အမေရိကန်သမ္မတ ဂျော့ဘုရှ်၊ ဗြိတိသျှဝန်ကြီးချုပ်
+test_images/test_000478.png	ဝ
+test_images/test_000479.png	၈ ဦး၊ မ ၁၀၀၁ ဦး၊ လူဦးရေစုစုပေါင်း ၂၀၇၉ ဦး နေထိုင်သည်။ သည်ကြားထဲက မွန်မွန့်အသွင်၌ ချုပ်တည်း
+test_images/test_000480.png	ဖုန်းနဲ့ နံပါတ်တစ်ခုကို ခေါ်လိုက်ပါတယ်။ ဆူနီဆာ ကာဝရွန်ဂရောင်း (၂၉ ဇန်နဝါရီ ၁၉၇၂ မွေးဖွားသည်) ထိုင်းနိုင်ငံမှ မာရသွန်ပြိုင်ပွဲဝင်
+test_images/test_000481.png	ရာကုတ်
+test_images/test_000482.png	၊ သွေး
+test_images/test_000483.png	ရပ်ဝတ် အရပ်စားနှင့်။ ဒါက ဘာသဘော
+test_images/test_000484.png	တို့
+test_images/test_000485.png	မိုင်
+test_images/test_000486.png	culturesorracesintheirfictionaluniverses.Namesortitlesof
+test_images/test_000487.png	ဆေးလိပ်
+test_images/test_000488.png	ကာ အခြား
+test_images/test_000489.png	င့် အောက်ဘုံ
+test_images/test_000490.png	ရပြီး တညင် ကျောက်
+test_images/test_000491.png	။https://www.anonymoustunisie.com/WebsiteofAnonymousTNဘယ်သူမှ တိတိ
+test_images/test_000492.png	သို့ ပြန်ရောက်သော် ရိုမန်တစ် ဟာသ Finding Mr. Destiny ၌ ပွဲဦးထွက်လာရာ ကိုရီးယား၌ ရုံပေါ်မှမဆင်းသော ကား ဖြစ်ခဲ့သည်။ နတ်ဆိုတာ မဂဓဘာသာမှ နာထသဒ္ဒါကို အ
+test_images/test_000493.png	သည် ကချင်ပြည်နယ်၊ ပူ
+test_images/test_000494.png	ကြ
+test_images/test_000495.png	သည်။ ၁၉၅
+test_images/test_000496.png	၊ meropenem
+test_images/test_000497.png	ရန်
+test_images/test_000498.png	အရ ထုံးတောင်ကျေးရွာအုပ်စုတွင် ကျား ၂၃၁၀ ဦး၊ မ ၂၆၈၀
+test_images/test_000499.png	မေးခွန်းတွေကိုလည်း မုန်းတယ်။ ၀င်းလှသည် ဖြူဖတ်ဖြူရော်ဖြစ်နေသော ခိုင့်
