@@ -1,33 +1,87 @@
-Phase 2 E1 Pilot Result
+# Phase 2 Summary: Myanmar OCR Recognition with PaddleOCR
 
-Dataset:
-- Main dataset: chuuhtetnaing/myanmar-ocr-dataset
-- Train subset size: 5000
-- Test subset size: 500
+## Project Goal
 
-Model:
-- Framework: PaddleOCR recognition
-- Model type: CRNN recognition model
-- Backbone: MobileNetV3
-- Neck: SequenceEncoder with RNN
-- Head: CTCHead
-- Custom dictionary size: 165 characters, plus space character enabled
+This project trains a Myanmar OCR text recognition model using PaddleOCR. The current Phase 2 work focuses on recognition-only OCR, meaning the model takes cropped Myanmar text-line images as input and predicts the corresponding Myanmar text sequence.
 
-Compute:
-- GPU: RTX 2080 Ti
-- Run name: puffer_2080ti_run1
-- Epochs: 5
-- Batch size: 32
-- Total training steps: 780
+This is not a full-page OCR pipeline yet. Text detection and layout analysis are planned as possible future extensions.
 
-Evaluation:
-- Exact sequence accuracy: 0.0220
-- Normalized edit distance: 0.2627
-- FPS: 775.05
-- Checkpoint used: outputs/puffer_2080ti_run1/latest
+---
 
-Notes:
-- The training and evaluation pipeline completed successfully.
-- The result is still weak because this was a short pilot run using only 5,000 training samples and 5 epochs.
-- The main purpose of this Phase 2 run is to prove that dataset loading, dictionary construction, PaddleOCR training, checkpoint saving, and evaluation are working.
-- For the final submission, the same E1 experiment should be scaled with more training samples and more epochs.
+## Framework and Model
+
+Framework: PaddleOCR  
+Task type: Text recognition  
+Training style: From scratch  
+Dataset: CHN Myanmar OCR dataset  
+Model architecture: CRNN + MobileNetV3 + RNN SequenceEncoder + CTCHead  
+Loss function: CTCLoss  
+Dictionary: Custom Myanmar character dictionary  
+Input image shape: 3 x 32 x 100  
+
+PaddleOCR is used as the OCR training framework. The model does not use a pretrained Burmese OCR model. Instead, it learns Myanmar text recognition from the CHN image-label pairs.
+
+---
+
+## Phase 2 Experiments
+
+| Run | GPU | Train Size | Test Size | Epochs | Batch Size | Checkpoint | Accuracy | Normalized Edit Distance | FPS |
+|---|---|---:|---:|---:|---:|---|---:|---:|---:|
+| E1 Pilot | RTX 2080 Ti | 5,000 | 500 | 5 | 32 | latest | 0.0220 | 0.2627 | 775.05 |
+| E1 Scaled | RTX 2080 Ti | 20,000 | 2,000 | 20 | 32 | best_accuracy | 0.2825 | 0.5067 | 1592.95 |
+
+---
+
+## E1 Pilot Result
+
+The E1 Pilot experiment used 5,000 training images and 500 test images for 5 epochs. This experiment confirmed that the complete PaddleOCR training and evaluation pipeline worked successfully on Myanmar text recognition data.
+
+The result was weak, with exact sequence accuracy of 0.0220 and normalized edit distance of 0.2627. This was expected because the pilot used a small subset and short training duration.
+
+---
+
+## E1 Scaled Result
+
+The E1 Scaled experiment increased the dataset to 20,000 training images and 2,000 test images, and trained for 20 epochs. The best checkpoint was saved as `best_accuracy`, with the best result achieved at epoch 16.
+
+The scaled model achieved exact sequence accuracy of 0.2825 and normalized edit distance of 0.5067. This shows a clear improvement over the pilot experiment and confirms that increasing data size and training duration improves Myanmar OCR recognition performance.
+
+---
+
+## Inference Result
+
+Inference was tested using the best scaled checkpoint on cropped Myanmar text-line images from the CHN test subset.
+
+Example:
+
+| Image | Ground Truth | Prediction | Confidence | Result |
+|---|---|---|---:|---|
+| test_000000.png | သည် | သည် | 0.9998 | Correct |
+
+A separate inference example table is saved in:
+
+`results/phase2_inference_examples.md`
+
+The inference examples show that the trained model can correctly recognize several short Myanmar text images. Longer sentences still contain character-level and punctuation-level errors, which is consistent with the evaluation metrics.
+
+---
+
+## Current Limitations
+
+1. The model is recognition-only and does not perform full-page text detection.
+2. The model was trained from scratch on a subset of the full CHN dataset.
+3. Longer Myanmar text sequences still produce errors.
+4. The confidence score is not always equal to correctness, since some incorrect predictions still receive high confidence.
+5. Further improvement may require more data, longer training, stronger architecture, better image width handling, or language-aware post-processing.
+
+---
+
+## Next Steps
+
+For the final stage, the project can continue with:
+
+1. Larger CHN training subset, such as 50k or 100k images.
+2. External testing on the myOCR dataset.
+3. Architecture comparison, such as MobileNetV3 versus ResNet backbone.
+4. Ablation study on dataset size, training epochs, or dictionary settings.
+5. Possible post-OCR correction for Myanmar text.
