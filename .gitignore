@@ -1,0 +1,137 @@
+# =========================
+# Python / virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# =========================
+# uv local files
+# =========================
+pyproject.toml
+uv.lock
+.python-version
+.uv/
+.uv-cache/
+uv-cache/
+
+# =========================
+# Python cache / package files
+# =========================
+.cache/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS / editor files
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+wandb/
+mlruns/
+tensorboard/
+runs/
+
+# =========================
+# Raw / generated datasets
+# =========================
+data/
+datasets/
+raw_data/
+processed_data/
+
+# Keep placeholder only if needed
+!data/.gitkeep
+!datasets/.gitkeep
+
+# =========================
+# Model outputs / checkpoints
+# =========================
+outputs/
+output/
+checkpoints/
+weights/
+models/
+pretrained_models/
+saved_models/
+inference/
+inference_results/
+
+*.pdparams
+*.pdopt
+*.pdstates
+*.pdmodel
+*.onnx
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+
+# =========================
+# PaddleOCR generated files
+# =========================
+PaddleOCR/output/
+PaddleOCR/inference/
+PaddleOCR/pretrain_models/
+PaddleOCR/train_data/
+PaddleOCR/*.log
+
+# =========================
+# Results
+# =========================
+results/*
+
+# Keep lightweight report evidence
+!results/.gitkeep
+!results/*.txt
+!results/*.md
+!results/*.csv
+
+# Do not keep generated images
+results/*.png
+results/*.jpg
+results/*.jpeg
+
+# =========================
+# Archives
+# =========================
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+*.tmp
+*.bak
+*.old

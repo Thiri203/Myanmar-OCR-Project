@@ -1,0 +1,34 @@
+Local RTX 4060 Debug Run Summary
+
+Purpose:
+This local run is a debug/pipeline validation run before the official Puffer RTX 2080 Ti training.
+
+Dataset:
+- Main dataset: chuuhtetnaing/myanmar-ocr-dataset
+- Split used: train and test
+- Columns confirmed: image, text
+- Train subset size: 1000
+- Test subset size: 200
+
+Generated files:
+- data/chn_subset/rec_gt_train.txt: 1000 lines
+- data/chn_subset/rec_gt_test.txt: 200 lines
+- data/chn_subset/myanmar_dict.txt: 146 characters
+- train_images folder: generated locally, not pushed to GitHub
+- test_images folder: generated locally, not pushed to GitHub
+
+Compute:
+- Device: RTX 4060
+- OS: Windows Git Bash
+- Python: 3.11.13
+- Environment manager: uv
+
+Status:
+- Base packages import: successful
+- CHN dataset inspection: successful
+- CHN subset preparation: successful
+- Myanmar dictionary generation: successful
+- PaddleOCR training: not started yet
+
+Notes:
+This run proves that the CHN dataset can be loaded, converted into PaddleOCR-style recognition format, and used to build a Myanmar character dictionary. The official larger training will be done on Puffer RTX 2080 Ti.

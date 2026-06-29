@@ -1,0 +1,10 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading dataset: chuuhtetnaing/myanmar-ocr-dataset
+Splits: ['train', 'test']
+
+Split: train
+Columns: ['image', 'text']
+  image: <class 'PIL.JpegImagePlugin.JpegImageFile'>
+  text: <class 'str'>
+    preview: ရင် မေမေ့ကိုကြွားရမယ်လေ အပြာကွက်ကြီးများကို ဘွားဘွားအနီးတွင် စက်ကိရိယာများဖြင့် ပတ်လည်ဝိုင်းလျက် ရှိသည်
+Saved sample image to results\sample_train.png
